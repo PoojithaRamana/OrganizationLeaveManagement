@@ -1,0 +1,6 @@
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Models\bin\Debug\Organization.Models.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Models\bin\Debug\Organization.Models.pdb
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Models\obj\Debug\Organization.Models.csprojAssemblyReference.cache
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Models\obj\Debug\Organization.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Models\obj\Debug\Organization.Models.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Models\obj\Debug\Organization.Models.pdb

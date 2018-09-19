@@ -1,0 +1,16 @@
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\Organization.Services.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\Organization.Services.pdb
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\Autofac.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\Organization.Models.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\Organization.Models.pdb
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\Autofac.xml
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\obj\Debug\Organization.Services.csprojAssemblyReference.cache
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\obj\Debug\Organization.Services.csproj.CoreCompileInputs.cache
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\obj\Debug\Organization.Services.csproj.CopyComplete
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\obj\Debug\Organization.Services.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\obj\Debug\Organization.Services.pdb
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\AutoMapper.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\System.ValueTuple.dll
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\AutoMapper.pdb
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\AutoMapper.xml
+C:\Users\Pujitha.t\source\repos\OrganizationSimulation\Organization.Services\bin\Debug\System.ValueTuple.xml
